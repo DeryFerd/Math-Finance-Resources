@@ -8,14 +8,14 @@ This repository is intended as a growing archive of books, papers, and reference
 
 ## 📂 Repository Structure
 
-- `Books/`  
+- [Books/](./Books)  
   Contains textbooks, lecture notes, and technical books on topics such as:
   - Stochastic calculus
   - Risk management
   - Portfolio optimization
   - Derivatives pricing
 
-- `Papers/`  
+- [Papers/](./Papers)  
   Contains academic and industry papers covering:
   - Value at Risk (VaR), Conditional VaR (CVaR)
   - Monte Carlo methods
