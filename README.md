@@ -1,7 +1,5 @@
 # Math-Finance-Resources
 
-# Math-Finance-Resources
-
 📚 A curated personal collection of resources related to mathematical finance, risk modeling, quantitative investment, and stochastic processes.
 
 This repository is intended as a growing archive of books, papers, and references to support ongoing learning and future research in quantitative finance.
